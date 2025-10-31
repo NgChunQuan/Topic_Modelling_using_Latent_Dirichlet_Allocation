@@ -1,1 +1,1 @@
-# Topic_Modelling_using_Latent_Dirichlet_Allocation
+Project Description: This project focuses on discovering topics from employee survey responses using Latent Dirichlet Allocation (LDA).
